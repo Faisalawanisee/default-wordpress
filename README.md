@@ -16,13 +16,13 @@ List of plugins
 
 | Plugin | README |
 | ------ | ------ |
-| Disable Comments | [https://wordpress.org/plugins/disable-comments/][dill] |
-| Duplicator | [https://wordpress.org/plugins/duplicator/][dill] |
-| Elementor Page Builder | [https://wordpress.org/plugins/elementor/][dill] |
-| Email Log | [https://wordpress.org/plugins/email-log/][dill] |
-| Google XML Sitemaps | [https://wordpress.org/plugins/google-sitemap-generator/][dill] |
-| Lazy Load by WP Rocket | [https://wordpress.org/plugins/rocket-lazy-load/][dill] |
-| Login LockDown | [https://wordpress.org/plugins/login-lockdown/][dill] |
+| Disable Comments | https://wordpress.org/plugins/disable-comments |
+| Duplicator | https://wordpress.org/plugins/duplicator |
+| Elementor Page Builder | https://wordpress.org/plugins/elementor |
+| Email Log | https://wordpress.org/plugins/email-log |
+| Google XML Sitemaps | https://wordpress.org/plugins/google-sitemap-generator |
+| Lazy Load by WP Rocket | https://wordpress.org/plugins/rocket-lazy-load |
+| Login LockDown | https://wordpress.org/plugins/login-lockdown |
 
 
 ### WP-Cli Development
