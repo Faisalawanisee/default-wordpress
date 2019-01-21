@@ -2,6 +2,7 @@
 
 This is a default wordpress depository with some basic plugins for start new project quicky.
 
+
 ## Getting Started
 
 To install this repository just run the command,
@@ -9,6 +10,7 @@ To install this repository just run the command,
 ```sh
 $ git clone https://github.com/Faisalawanisee/default-wordpress.git
 ```
+
 
 ### Plugins
 
@@ -58,4 +60,4 @@ $ wp theme update --all
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
