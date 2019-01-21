@@ -14,7 +14,7 @@ $ git clone https://github.com/Faisalawanisee/default-wordpress.git
 
 List of plugins
 
-| Plugin | README |
+| Plugin | URL |
 | ------ | ------ |
 | Disable Comments | https://wordpress.org/plugins/disable-comments |
 | Duplicator | https://wordpress.org/plugins/duplicator |
